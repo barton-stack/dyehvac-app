@@ -1,0 +1,14 @@
+{
+  "name": "Dye HVAC – Service Report",
+  "short_name": "Dye HVAC",
+  "description": "85-Point System Performance Report for Dye HVAC technicians",
+  "start_url": "/dyehvac-app/index.html",
+  "display": "standalone",
+  "background_color": "#1a3a6b",
+  "theme_color": "#1a3a6b",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/dyehvac-app/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/dyehvac-app/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
